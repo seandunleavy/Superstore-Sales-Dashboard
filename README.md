@@ -17,10 +17,7 @@ Interactive Excel dashboard analyzing Superstore sales data to uncover trends, K
 
 ## Screenshots
 ![Full Dashboard](full_dashboard.png)  
-![Sales by Category](sales_by_category.png)  
-![Sales Trend Over Time](sales_trend.png)  
-![Sales by Region](sales_by_region.png)  
-![Top 10 Products by Profit](top_10_products.png)
+
 
 ## How to Use
 1. Download the `.xlsx` file
